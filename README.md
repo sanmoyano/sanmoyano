@@ -12,18 +12,18 @@
 
 ## 🧰 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./iconos/vs.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="./iconos/html.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="./iconos/css.svg" />]
-[<img align="left" alt="Sass" width="26px" src="./iconos/sass.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="./iconos/js.svg" />]
-[<img align="left" alt="Node.js" width="26px" src="./iconos/node.svg" />]
-[<img align="left" alt="Git" width="26px" src="./iconos/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="./iconos/github.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./iconos/console.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./iconos/figma.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./iconos/ai.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./iconos/ph.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="./iconos/vs.svg" />
+<img align="left" alt="HTML5" width="26px" src="./iconos/html.svg" />
+<img align="left" alt="CSS3" width="26px" src="./iconos/css.svg" />
+<img align="left" alt="Sass" width="26px" src="./iconos/sass.svg" />
+<img align="left" alt="JavaScript" width="26px" src="./iconos/js.svg" />
+<img align="left" alt="Node.js" width="26px" src="./iconos/node.svg" />
+<img align="left" alt="Git" width="26px" src="./iconos/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="./iconos/github.svg" />
+<img align="left" alt="Terminal" width="26px" src="./iconos/console.svg" />
+<img align="left" alt="Terminal" width="26px" src="./iconos/figma.svg" />
+<img align="left" alt="Terminal" width="26px" src="./iconos/ai.svg" />
+<img align="left" alt="Terminal" width="26px" src="./iconos/ph.svg" />
 
 ## Connect whit me 🔗:
 
