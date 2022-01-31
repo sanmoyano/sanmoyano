@@ -24,7 +24,7 @@
 
 ## Connect whit me 🔗:
 
-[<img align="left" alt="sanmoyano | Instagram" width="22px" src="https://www.kindpng.com/imgv/iibii_instagram-icon-white-on-black-circle-vector-instagram/" />][instagram]
+[<img align="left" alt="sanmoyano | Instagram" width="22px" src="./iconos/instagram.png" />][instagram]
 [<img align="left" alt="santiago-moyano | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
