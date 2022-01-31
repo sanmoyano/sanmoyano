@@ -30,8 +30,8 @@
 
 ## Connect whit me 🔗:
 
-[<img align="left" alt="sanmoyano | Instagram" width="22px" src="./iconos/insta.svg" />][instagram]
-[<img align="left" alt="santiago-moyano | LinkedIn" width="22px"  src="./iconos/linkedin.svg" />][linkedin]
+[<img align="left" alt="sanmoyano | Instagram" width="30px" src="./iconos/insta.svg" />][instagram]
+[<img align="left" alt="santiago-moyano | LinkedIn" width="30px"  src="./iconos/linkedin.svg" />][linkedin]
 
 <br/>
 <br/>
