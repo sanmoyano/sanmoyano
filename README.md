@@ -2,7 +2,7 @@
 
 ## I'm a Industrial Designer and Developer!! 🧠✏️💻
 
-- 🔭 I just finishing the course: Full-Stack Developer in Coder House - Web Developing ✔️ - JavaScrip ✔️ - React Js ⌛ - BackEnd 🔜
+- 🔭 I just finishing the course: Full-Stack Developer in Coder House: <br/> - Web Developing ✔️ <br/> - JavaScrip ✔️ <br/> - React Js ⌛ <br/> - BackEnd 🔜
 - 🌱 I’m currently learning everything about IT
 - 👯 I’m looking to enter in the IT world in a professional way
 - 🥅 2022 Goals: Contribute and gain experience to design useful solutions for the future 🌌
@@ -26,6 +26,8 @@
 
 [<img align="left" alt="sanmoyano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="santiago-moyano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmoyano)](https://github.com/sanmoyano/github-readme-stats)
 
