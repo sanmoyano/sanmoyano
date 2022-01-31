@@ -25,6 +25,9 @@
 <img align="left" alt="Terminal" width="26px" src="./iconos/ai.svg" />
 <img align="left" alt="Terminal" width="26px" src="./iconos/ph.svg" />
 
+<br/>
+<br/>
+
 ## Connect whit me 🔗:
 
 [<img align="left" alt="sanmoyano | Instagram" width="22px" src="./iconos/insta.svg" />][instagram]
