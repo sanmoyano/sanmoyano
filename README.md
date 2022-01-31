@@ -21,6 +21,9 @@
 [<img align="left" alt="Git" width="26px" src="./iconos/git.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="./iconos/github.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="./iconos/console.svg" />]
+[<img align="left" alt="Terminal" width="26px" src="./iconos/figma.svg" />]
+[<img align="left" alt="Terminal" width="26px" src="./iconos/ai.svg" />]
+[<img align="left" alt="Terminal" width="26px" src="./iconos/ph.svg" />]
 
 ## Connect whit me 🔗:
 
