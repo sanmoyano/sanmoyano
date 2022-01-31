@@ -27,7 +27,7 @@
 [<img align="left" alt="sanmoyano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="santiago-moyano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<img align="left" alt="sanmoyano GitHub Stats" src="https://github-readme-stats.sanmoyano.vercel.app/api?username=sanmoyano&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmoyano)](https://github.com/sanmoyano/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/santiago-moyano/
 [instagram]: https://www.instagram.com/sanmoyano/?hl=es
