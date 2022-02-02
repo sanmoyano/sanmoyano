@@ -32,7 +32,7 @@
 
 [<img align="left" alt="sanmoyano | Instagram" width="25px" src="./iconos/insta.svg" />][instagram]
 [<img align="left" alt="santiago-moyano | LinkedIn" width="25px"  src="./iconos/linkedin.svg" />][linkedin]
-[<img align="left" alt="smoyano.di@gamil.com | Gmail" width="25px"  src="./iconos/gmail.svg" />][mail]
+
 
 <br/>
 <br/>
@@ -41,4 +41,4 @@
 
 [linkedin]: https://www.linkedin.com/in/santiago-moyano/
 [instagram]: https://www.instagram.com/sanmoyano/?hl=es
-[mail]:<a hreff="mailto: smoyano.di@gmail.com"></a> 
+
