@@ -18,13 +18,13 @@
 <img align="left" alt="Sass" width="30px" src="./iconos/sass.svg" />
 <img align="left" alt="JavaScript" width="30px" src="./iconos/js.svg" />
 <img align="left" alt="ReactJs" width="30px" src="./iconos/react.svg" />
-<img align="left" alt="Node.js" width="30px" src="./iconos/node.svg" />
 <img align="left" alt="Git" width="30px" src="./iconos/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="./iconos/github.svg" />
 <img align="left" alt="Terminal" width="30px" src="./iconos/console.svg" />
 <img align="left" alt="Figma" width="30px" src="./iconos/figma.svg" />
 <img align="left" alt="Illustrator" width="30px" src="./iconos/ai.svg" />
 <img align="left" alt="Phothoshop" width="30px" src="./iconos/ph.svg" />
+<!-- <img align="left" alt="Node.js" width="30px" src="./iconos/node.svg" /> -->
 
 <br/>
 <br/>
@@ -34,7 +34,6 @@
 [<img align="left" alt="sanmoyano | Instagram" width="25px" src="./iconos/insta.svg" />][instagram]
 [<img align="left" alt="santiago-moyano | LinkedIn" width="25px"  src="./iconos/linkedin.svg" />][linkedin]
 
-
 <br/>
 <br/>
 
@@ -42,4 +41,3 @@
 
 [linkedin]: https://www.linkedin.com/in/santiago-moyano/
 [instagram]: https://www.instagram.com/sanmoyano/?hl=es
-
