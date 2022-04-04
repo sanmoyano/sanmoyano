@@ -1,6 +1,6 @@
 ### Hi there, I'm Santiago 👋
 
-## I'm a Frontend Developer and Designer!! 🧠✏️💻
+## I'm a Front End Developer and Designer!! 🧠✏️💻
 
 - 🔭 Currently finishing the course: Full-Stack Developer in Coder House: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
 - 🌱 I’m currently learning: <br/> - Node.js <br/> - MongoDB <br/> - Express <br/> - SQL <br/> - DbaaS <br/> - GraphQL
