@@ -2,7 +2,7 @@
 
 ## I'm a Industrial Designer and Developer!! 🧠✏️💻
 
-- 🔭 I just finishing the course: Full-Stack Developer in Coder House: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
+- 🔭 Currently finishing the course: Full-Stack Developer in Coder House: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
 - 🌱 I’m currently learning everything about IT
 - 👯 I’m looking to enter in the IT world in a professional way
 - 🥅 2022 Goals: Contribute and gain experience to design useful solutions for the future 🌌
