@@ -1,10 +1,9 @@
 ### Hi there, I'm Santiago 👋
 
-## I'm a Industrial Designer and Developer!! 🧠✏️💻
+## I'm a Frontend Developer and Designer!! 🧠✏️💻
 
 - 🔭 Currently finishing the course: Full-Stack Developer in Coder House: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
-- 🌱 I’m currently learning everything about IT
-- 👯 I’m looking to enter in the IT world in a professional way
+- 🌱 I’m currently learning: <br/> - Node.js <br/> - MongoDB <br/> - Express <br/> - SQL <br/> - DbaaS <br/> - GraphQL
 - 🥅 2022 Goals: Contribute and gain experience to design useful solutions for the future 🌌
 - ⚡ Fun fact: I love sports, read and nature ⛰️
 
