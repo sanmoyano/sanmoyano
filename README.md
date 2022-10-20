@@ -2,8 +2,9 @@
 
 ## I'm a Front End Developer and Designer!! 🧠✏️💻
 
-- 🔭 Currently finishing the course: Full-Stack Developer in Coder House: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
-- 🌱 I’m currently learning:  <br/> - React Native <br/> - Node.js <br/> - MongoDB <br/> - Express <br/> - SQL <br/> - DbaaS <br/> - GraphQL
+- 🔭 Currently finishing the course: Full-Stack Developer: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
+- 🌱 And also learning:  <br/> - React Native <br/> - Node.js <br/> - MongoDB <br/> - Express <br/> - SQL <br/> - DbaaS <br/> - GraphQL <br/> - Apollo Client <br/> - Apollo Server
+- 🔠 English Level: B2
 - 🥅 2022 Goals: Contribute and gain experience to design useful solutions for the future 🌌
 - ⚡ Fun fact: I love sports, read and nature ⛰️
 
