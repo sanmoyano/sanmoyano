@@ -12,12 +12,12 @@
 
 ## 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="./iconos/vs.svg" />
+<img align="left" alt="ReactJs" width="30px" src="./iconos/react.svg" />
+<img align="left" alt="JavaScript" width="30px" src="./iconos/js.svg" />
 <img align="left" alt="HTML5" width="30px" src="./iconos/html.svg" />
 <img align="left" alt="CSS3" width="30px" src="./iconos/css.svg" />
 <img align="left" alt="Sass" width="30px" src="./iconos/sass.svg" />
-<img align="left" alt="JavaScript" width="30px" src="./iconos/js.svg" />
-<img align="left" alt="ReactJs" width="30px" src="./iconos/react.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="./iconos/vs.svg" />
 <img align="left" alt="Git" width="30px" src="./iconos/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="./iconos/github.svg" />
 <img align="left" alt="Terminal" width="30px" src="./iconos/console.svg" />
