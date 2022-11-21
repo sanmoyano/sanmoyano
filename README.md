@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmoyano)](https://github.com/sanmoyano/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanmoyano)](https://github.com/sanmoyano/github-readme-stats) -->
 
 [linkedin]: https://www.linkedin.com/in/santiago-moyano/
 [instagram]: https://www.instagram.com/sanmoyano/?hl=es
