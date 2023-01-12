@@ -5,7 +5,7 @@
 - 🔭 Currently finishing the course: Full-Stack Developer: <br/> - Web Developing ✔️ <br/> - JavaScript ✔️ <br/> - React Js ✔️ <br/> - BackEnd ⌛
 - 🌱 And also learning:  <br/> - TypeScript <br/> - Node.js <br/> - MongoDB <br/> - Express <br/> - SQL <br/> - DbaaS <br/> - GraphQL <br/> - Apollo Client <br/> - Apollo Server
 - 🔠 English Level: B2
-- 🥅 2022 Goals: Contribute and gain experience to design useful solutions for the future 🌌
+- 🥅 2023 Goals: Contribute and gain experience to design useful solutions for the future 🌌
 - ⚡ Fun fact: I love sports, read and nature ⛰️
 
 <br/>
